@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="searchbar_hint">search</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="title">Github User</string>
+    <string name="favorite_ditambahkan">Favorite Ditambahkan</string>
+    <string name="favorite_dihapus">Favorite Dihapus</string>
+    <string name="setting">setting</string>
+</resources>
